@@ -1,0 +1,3 @@
+discord
+discord-ext-bot
+giphy_client
