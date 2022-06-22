@@ -1,5 +1,5 @@
 # Discord-Bot
-A discord bot that sends daily messages.
+A discord bot that sends daily messages with gif.
 
 # How can i install requirements?
 Just go to the discord-bot folder from your terminal and type:<br>
