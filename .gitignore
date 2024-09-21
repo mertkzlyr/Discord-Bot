@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Miscellaneous
+*.DS_Store
+*.swp
+Thumbs.db
